@@ -1,0 +1,18 @@
+{
+  "name": "gltf",
+  "version": "1.0.0",
+  "description": "dracocompressscript",
+  "main": "gltf-draco.js",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "gltf-pipeline": "^3.0.2",
+    "file-system": "^2.2.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "MOTYO",
+  "license": "ISC"
+}
